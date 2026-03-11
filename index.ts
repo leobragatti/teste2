@@ -5,3 +5,4 @@ type User  = {
 }
 
 console.log("Hey");
+console.log("Hey 2");
