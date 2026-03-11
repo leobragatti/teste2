@@ -3,3 +3,5 @@ type User  = {
     lastName: string;
     email: string;
 }
+
+console.log("Hey");
